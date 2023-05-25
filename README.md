@@ -1,5 +1,6 @@
-### Hi there im Pablo Erhard Hernandez 👋
-## Welcome to my GitHub profile! I am a passionate computer science student with a keen interest in FullStack development in stacks such as MERN and SvelteKit This repository serves as a portfolio of my coding projects, coursework, and contributions to the open-source community. I believe in the power of technology to drive innovation and solve real-world problems.
+### Hi there im Pablo Erhard Hernandez this is my ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+👋
+# Welcome to my GitHub profile! I am a passionate computer science student with a keen interest in FullStack development in stacks such as MERN and SvelteKit This repository serves as a portfolio of my coding projects, coursework, and contributions to the open-source community. I believe in the power of technology to drive innovation and solve real-world problems.
 <!--
 **pabloerhard/PabloErhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
