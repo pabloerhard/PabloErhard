@@ -4,7 +4,7 @@
 
 ## About Me
 
-##### Welcome to my GitHub profile! I am a passionate computer science student with a keen interest in FullStack development in stacks such as MERN and SvelteKit This repository serves as a portfolio of my coding projects, coursework, and contributions to the open-source community. I believe in the power of technology to drive innovation and solve real-world problems.
+##### Welcome to my GitHub profile! I am a passionate computer science student with a keen interest in FullStack development in stacks such as MERN, currently Im focused on learning Golang and Sveltekit. This repository serves as a portfolio of my coding projects, coursework, and contributions to the open-source community. I believe in the power of technology to drive innovation and solve real-world problems.
 
 ##### Outside the world of tech, im passionate about sports, reading, family, friends and nature, i enjoy pushing my self to the limit and learning new things.
 
